@@ -1,0 +1,6 @@
+#ifndef TRANS2553_LIBRARY_H
+#define TRANS2553_LIBRARY_H
+
+void hello();
+
+#endif //TRANS2553_LIBRARY_H

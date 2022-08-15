@@ -1,0 +1,3 @@
+/Users/bettsa/CLionProjects/trans2553/cmake-build-debug/CMakeFiles/trans2553.dir
+/Users/bettsa/CLionProjects/trans2553/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bettsa/CLionProjects/trans2553/cmake-build-debug/CMakeFiles/rebuild_cache.dir
